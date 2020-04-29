@@ -1,0 +1,38 @@
+.head{
+	color:green;
+	background-color: rgba(11,11,11,.1);
+	font-size: 25px;
+}
+h1{
+	color: blue;
+}
+#head1{
+	color:skyblue;
+	background-color:rgba(11,11,11,.5);
+	font-size: 25px;
+}
+.hyper{
+color:red;
+font-size: 25px;
+}
+.link{
+	color: white;
+	background-color:rgba(11,11,11,.9);
+	font-size: 20px;
+}
+.id{
+	font-size: 15px;
+	color: rgba(11,11,11,.9);
+}
+
+
+
+
+
+/*
+id,class,tag
+power:id,class,tag;
+color:solid color name,hex,rgb,rgba;
+mesurment unit:px,pt, %,em,rem;
+1em=16px
+*/
